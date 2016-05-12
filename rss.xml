@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[briggsadv]]></title>
         <description><![CDATA[briggsadv]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/briggsadv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 15:21:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 May 2016 15:25:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/briggsadv/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/defeea39-a9ba-482e-8573-dcf727bd9f4f.jpg" alt="" title="" />]]></description>
-            <link>undefinedf89d29fa-3e33-407d-9d9d-3abf2d9f248d/index.html</link>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b8a54089f0a175b54c1135f8c88398805efab05.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/briggsadv/f89d29fa-3e33-407d-9d9d-3abf2d9f248d/index.html</link>
             <guid isPermaLink="false">f89d29fa-3e33-407d-9d9d-3abf2d9f248d</guid>
-            <pubDate>Thu, 12 May 2016 15:21:18 GMT</pubDate>
+            <pubDate>Thu, 12 May 2016 15:25:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
